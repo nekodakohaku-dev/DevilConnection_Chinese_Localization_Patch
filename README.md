@@ -20,11 +20,13 @@
 • 若原作者明確表示不希望遊戲內容被翻譯成本地語言，本討論串與檔案將會撤下以示尊重。
 
 📦 檔案下載
-Google 雲端硬碟下載連結：
-檔案大小約 8 MB
-簡體中文由網友 溶炎[抽象限定] 基於繁體中文補丁修改提供
+請點選右邊的 Release 後進到下載區
+v1.7.9 DevilConnection zh-tw 為繁體
+v1.7.9 DevilConnection zh-cn 為簡體 (簡體中文由網友 溶炎[抽象限定] 基於繁體中文補丁修改提供)
+請依照需求進行下載
+簡體的安裝方法請下載檔案後參考壓縮檔內的"安装前请看.txt"進行安裝
+繁體中文則請繼續參考下方的安裝說明
 
-https://drive.google.com/drive/folders/1fRHCp5uW-HLqjKUnPm3v7BYrde-RsdqZ?usp=share_link
 
 ⚙️安裝需求
 1.使用補丁前請先安裝 Node.js
