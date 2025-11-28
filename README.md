@@ -46,7 +46,7 @@
 
 1. 開啟 Steam，右鍵點擊遊戲 -> 管理 -> **瀏覽本機檔案**，進入遊戲根目錄。
 2. 將下載的壓縮檔解壓縮到遊戲根目錄中。
-   **📂 檔案結構示意：**SteamLibrary\steamapps\common\でびるコネクショん
+   **📂 檔案結構示意：SteamLibrary\steamapps\common\でびるコネクショん
 │
 ├── Loader.js <-- 載入器核心
 ├── patch.hdiff <-- 核心差異補丁
