@@ -100,6 +100,12 @@
 3. 更新完畢後，重新依照上方的「**安裝步驟**」放入中文化檔案。
 4. 若還是不行請到 [Steam 討論區](https://steamcommunity.com/app/3054820/discussions/0/671726388306530312/)提交留言反饋
 
+### Q5：我是否可以改用其他家的漢化？
+
+本中文化補丁支持使用別家的漢化，甚至是同時使用多家漢化：
+
+1. 詳見作者的另一個 [Github 開源項目](https://github.com/nekodakohaku-dev/DevilConnection_Mod_Loader)
+
 ---
 
 ## ❤️ 特別感謝
