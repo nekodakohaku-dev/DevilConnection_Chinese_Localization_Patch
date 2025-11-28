@@ -46,21 +46,18 @@
 
 1. 開啟 Steam，右鍵點擊遊戲 -> 管理 -> **瀏覽本機檔案**，進入遊戲根目錄。
 2. 將下載的壓縮檔解壓縮到遊戲根目錄中。
-   **📂 檔案結構示意：SteamLibrary\steamapps\common\でびるコネクショん
-
-│
-
-├── Loader.js <-- 載入器核心
-
-├── patch.hdiff <-- 核心差異補丁
-
-├── Mod Loader Installer.bat <-- 安裝腳本
-
-├── hpatchz.exe <-- 補丁應用工具
-
-└── DevilConnection.exe <-- (原本的遊戲執行檔)**
-3. 點擊執行 `Mod Loader Installer.bat`，等待安裝視窗跑完。
-4. 安裝完成，開始遊玩！ 🎉
+* **📂 解壓縮後的檔案結構示意：**
+    ```text
+    SteamLibrary\steamapps\common\でびるコネクショん
+    │
+    ├── Loader.js                 <-- 載入器核心
+    ├── patch.hdiff               <-- 核心差異補丁
+    ├── Mod Loader Installer.bat  <-- 安裝腳本 (點擊此檔案安裝)
+    ├── hpatchz.exe               <-- 補丁應用工具
+    └── DevilConnection.exe       <-- (原本的遊戲執行檔)
+    ```
+4. 點擊執行 `Mod Loader Installer.bat`，等待安裝視窗跑完。
+5. 安裝完成，開始遊玩！ 🎉
    (⚠️若發生無法預期的錯誤，請手動將 `resources`資料夾中的 `app.asar`和 `app.asar.bak`刪除，然後從 steam 執行檢查遊戲完整性後，再次執行中文化安裝。)
 
 ### 🔄 遊戲本體更新時（Steam 更新了遊戲）
