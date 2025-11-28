@@ -30,7 +30,7 @@
 請點選頁面右側的 **[Releases]** 進入下載區：
 
 * **繁體中文**：請下載 [`DevilConnection zh-tw`](https://github.com/nekodakohaku-dev/DevilConnection_Chinese_Localization_Patch/releases/tag/zh-tw) 開頭的檔案。
-* **簡體中文**：請下載 `DevilConnection zh-cn` 開頭的檔案。
+* **簡體中文**：請下載 [`DevilConnection zh-cn`](https://github.com/nekodakohaku-dev/DevilConnection_Chinese_Localization_Patch/releases/tag/zh-cn) 開頭的檔案。
   * *簡體中文版本由網友 `溶炎[抽象限定]` 基於繁體中文補丁修改提供。*
 
 ---
