@@ -47,11 +47,17 @@
 1. 開啟 Steam，右鍵點擊遊戲 -> 管理 -> **瀏覽本機檔案**，進入遊戲根目錄。
 2. 將下載的壓縮檔解壓縮到遊戲根目錄中。
    **📂 檔案結構示意：SteamLibrary\steamapps\common\でびるコネクショん
+
 │
+
 ├── Loader.js <-- 載入器核心
+
 ├── patch.hdiff <-- 核心差異補丁
+
 ├── Mod Loader Installer.bat <-- 安裝腳本
+
 ├── hpatchz.exe <-- 補丁應用工具
+
 └── DevilConnection.exe <-- (原本的遊戲執行檔)**
 3. 點擊執行 `Mod Loader Installer.bat`，等待安裝視窗跑完。
 4. 安裝完成，開始遊玩！ 🎉
