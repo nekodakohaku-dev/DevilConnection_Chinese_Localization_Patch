@@ -115,7 +115,9 @@
 
 ### 2.Linux 支援
 
-因為本人沒有 Linux 系統測試這邊就不另外打包到 Releases 了
+如果你在 Linux 作業系統上玩 でびるコネクショん 並且需要使用補丁的話請參考以下連結
+
+因為本人沒有 Linux 系統可以測試，這邊就不另外打包到 Releases 了
 
 [linmontfurry 版本](https://github.com/nekodakohaku-dev/DevilConnection_Chinese_Localization_Patch/issues/3) 
 
