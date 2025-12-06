@@ -95,9 +95,9 @@
 
 ---
 
-## ⚙️ 其他補丁
+## ⚙️ 其他資源
 
-### 1.更好的文字效果
+### 1.更好的文字效果補丁
 
 遊戲原本的字體不完全支援中文，因此在安裝中文化之後，字體會被替換並且統一使用免費可商用的思源黑體字型
 
@@ -113,7 +113,13 @@
 >
 >使用新版的中文化下, 解壓縮丟進plugins即可使用
 
+### 2.Linux 支援
 
+因為本人沒有 Linux 系統測試這邊就不另外打包到 Releases 了
+
+[linmontfurry 版本](https://github.com/nekodakohaku-dev/DevilConnection_Chinese_Localization_Patch/issues/3) 
+
+[Eddy 版本](https://steamcommunity.com/app/3054820/discussions/0/671726388306530312/?ctp=2#c689742575370772496)
 
 ---
 
@@ -126,6 +132,7 @@
 * Eddy
 * 亚托克斯捏
 * 溶炎[抽象限定]
+* linmontfurry
 
 以及所有未提及的熱心玩家與夥伴們。
 謝謝你們熱愛《でびるコネクショん》，沒有你們，這個中文化補丁無法順利完成！
